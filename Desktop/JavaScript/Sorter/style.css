@@ -1,0 +1,17 @@
+body{
+  width: 960px;
+  margin: auto;
+  text-align: center;
+  background-color: #ccc;
+}
+.inputAll{
+  display: flex;
+  justify-content: center;
+  margin: 20px ;
+}
+.input {
+  margin: 7px;
+}
+.button {
+  margin: 5px;
+}

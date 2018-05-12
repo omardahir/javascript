@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+.header{
+  border: 2px solid black;
+  margin: 15px auto;
+  background-color: #cccc;
+  width: 90vw;
+}
+.middle {
+  border: 2px solid black;
+  margin: 0px auto;
+  background-color: #cccc;
+  padding: 15px 0px;
+  width: 90vw;
+}
+.input1{
+  text-align: center;
+}
+.input2 {
+  text-align: center;
+  background-color: #4fa3c6;
+}

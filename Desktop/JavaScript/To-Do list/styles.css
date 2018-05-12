@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  border: none;
+}
+ul {
+  width: 40%;
+  float: left;
+}
+.header {
+  text-align: center;
+  padding: 10px;
+}
+li {
+list-style-type: none;
+background-color: lightblue;
+color: white;
+padding: 5px;
+margin-bottom: 5px;
+}
+span {
+  margin: 10px;
+}

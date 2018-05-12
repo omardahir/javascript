@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/dark-triangles.png")
+}
+header {
+  padding: 1px;
+  background-color: #000;
+}
+header h1 {
+  width: 30%;
+  font-size: 25px;
+}
+nav {
+  display: flex;
+  justify-content: flex-start;
+  color: white;
+}
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  float: left;
+  font-size:25px;
+  margin: 0 28px 0;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+
+}
+.center {
+  text-align: center;
+}
+article, nav {
+  width: 100;
+  max-width: 1175px;
+  margin-left: auto;
+  margin-right: auto;
+}
+article h1 {
+  margin: 30px;
+  font-size: 30px;
+  text-align: center;
+}
+article h2 {
+  margin: 30px;
+  border-bottom: 1px solid;
+  font-size: 25px;
+  text-align: center;
+}
+article {
+  width: 100%;
+  max-width: 975px;
+  min-height: 868px;
+  margin: 0, auto;
+  overflow: hidden;
+  margin-top: 5px;
+  background-color: #979997;
+  border: 2px outset;
+  border-color: #979997;
+}
+article section h2 {
+  text-align: center;
+  padding: 20px;
+}
+article section p {
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+article section img {
+  padding-left: 400px;
+  width: 20%;
+}
+table {
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.navigation {
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+}
+.clear {
+  clear:left;
+}
+
+.text-center {
+  text-align: center;
+}
